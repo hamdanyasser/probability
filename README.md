@@ -9,9 +9,10 @@ This crash course contains everything you need to master discrete probability an
 
 **Complete package includes:**
 - ✅ Structured 12-hour study plan (minute-by-minute)
+- ✅ Diagnostic quiz to identify knowledge gaps
 - ✅ Comprehensive theory with 100+ worked examples
 - ✅ 150+ practice problems with solutions
-- ✅ 2 full-length practice exams (60 min each)
+- ✅ 3 full-length practice exams (60 min each)
 - ✅ Quick-reference cheat sheets
 - ✅ 50 flashcards for active recall
 - ✅ 30 problem templates for unlimited practice
@@ -65,7 +66,20 @@ This crash course contains everything you need to master discrete probability an
 
 ### EXAM PREPARATION
 
+**Assessment Tools**
+- **DIAGNOSTIC_QUIZ.md** (20 minutes)
+  - 10 questions covering all three chapters
+  - Quick assessment to identify knowledge gaps
+  - Answer key with scoring guide and common mistakes
+  - Diagnostic interpretation for study planning
+
 **Practice Exams**
+- **SAMPLE_MIDTERM_1_BEGINNER.md** (60 minutes, 100 points)
+  - Beginner-level practice exam
+  - Student copy, answer key, and detailed teacher notes
+  - Comprehensive marking rubric with partial credit guidelines
+  - Time management strategy and 3 targeted practice problems
+
 - **MINI_MIDTERM_1.md** (60 minutes, 100 points)
   - Full exam with solutions and rubrics
   - Take in timed conditions
@@ -116,6 +130,8 @@ This crash course contains everything you need to master discrete probability an
 ## ⏱️ HOW TO USE THIS COURSE
 
 ### IF YOU HAVE 12 HOURS (Full Course)
+
+**Before starting:** Take **DIAGNOSTIC_QUIZ.md** (20 min) to identify your weak areas.
 
 Follow the schedule in **CRASH_COURSE_MASTER.md** exactly:
 
